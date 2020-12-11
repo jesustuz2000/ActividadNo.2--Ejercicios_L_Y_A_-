@@ -1,0 +1,8 @@
+v
+variable1
+Variable
+variable_2
+ a.	3.1416, 4.13, 0.1
+ b.	+   -   *    %    /
+ c.	=   >   <   !=    ==
+ d.	if  class  break  else
